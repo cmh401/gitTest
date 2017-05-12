@@ -18,6 +18,7 @@ public class MessageConsumer implements MessageListener {
 	@Override
 	public void onMessage(Message message) {
 		logger.info("receive message:{}",message);
+		//gfgfh
 	}
 
 }

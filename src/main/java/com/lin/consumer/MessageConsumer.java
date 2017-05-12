@@ -20,6 +20,7 @@ public class MessageConsumer implements MessageListener {
 		logger.info("receive message:{}",message);
 		//gfgfh
 		//meifanying
+		//3333
 	}
 
 }

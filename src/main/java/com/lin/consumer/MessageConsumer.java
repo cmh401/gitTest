@@ -19,6 +19,7 @@ public class MessageConsumer implements MessageListener {
 	public void onMessage(Message message) {
 		logger.info("receive message:{}",message);
 		//gfgfh
+		//meifanying
 	}
 
 }
